@@ -1,0 +1,79 @@
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.exe
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.deps.json
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.runtimeconfig.json
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.dll
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.pdb
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.AssemblyReference.cache
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form1.resources
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.GenerateResource.cache
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfoInputs.cache
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfo.cs
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.dll
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\refint\VendaDeCestas.dll
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.pdb
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.genruntimeconfig.cache
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\ref\VendaDeCestas.dll
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Properties.Resources.resources
+C:\Users\Mathe\OneDrive\Desktop\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form2.resources
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.exe
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.deps.json
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.runtimeconfig.json
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.dll
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.pdb
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.AssemblyReference.cache
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form1.resources
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form2.resources
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Properties.Resources.resources
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.GenerateResource.cache
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfoInputs.cache
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfo.cs
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.CoreCompileInputs.cache
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.dll
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\refint\VendaDeCestas.dll
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.pdb
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.genruntimeconfig.cache
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\ref\VendaDeCestas.dll
+D:\Fatec\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form3.resources
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.exe
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.deps.json
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.runtimeconfig.json
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.dll
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.pdb
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.AssemblyReference.cache
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form1.resources
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form2.resources
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form3.resources
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Properties.Resources.resources
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.GenerateResource.cache
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfoInputs.cache
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfo.cs
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.CoreCompileInputs.cache
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.dll
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\refint\VendaDeCestas.dll
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.pdb
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.genruntimeconfig.cache
+D:\Fatec\2º Semestre\Visual Studio - Repositório\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\ref\VendaDeCestas.dll
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.exe
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.deps.json
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.runtimeconfig.json
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.dll
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\bin\Debug\net7.0-windows\VendaDeCestas.pdb
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.AssemblyReference.cache
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form1.resources
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form2.resources
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Form3.resources
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.Properties.Resources.resources
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.GenerateResource.cache
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfoInputs.cache
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.AssemblyInfo.cs
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.csproj.CoreCompileInputs.cache
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.dll
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\refint\VendaDeCestas.dll
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.pdb
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\VendaDeCestas.genruntimeconfig.cache
+C:\Users\mathe.DESKTOP-1OC9HMC\Desktop\VendaDeCestas\VendaDeCestas\obj\Debug\net7.0-windows\ref\VendaDeCestas.dll
